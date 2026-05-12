@@ -1,9 +1,13 @@
-
 # Dog World – HTML Practice Project
 
 This is my first web development project created while learning HTML.
 
+## Project Screenshot
+
+![Dog World Screenshot](webpage.jpg)
+
 ## What I Learned Today
+
 - Basic HTML structure
 - Headings and paragraphs
 - Images and videos
@@ -16,7 +20,8 @@ This is my first web development project created while learning HTML.
 
 
 ## Technologies Used
+
 - HTML5
-webpage.png
+
 
 
