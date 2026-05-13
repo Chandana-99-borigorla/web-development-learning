@@ -4,7 +4,7 @@ This is my first web development project created while learning HTML.
 
 ## Project Screenshot
 
-![Dog World Screenshot](day1/webpage.jpg)
+![Dog World Screenshot](day1/webpage.png)
 
 ## What I Learned Today
 
@@ -22,6 +22,41 @@ This is my first web development project created while learning HTML.
 ## Technologies Used
 
 - HTML5
+
+
+
+project2:
+# Nature Card UI
+
+A simple and responsive Nature Card UI built using HTML and CSS.  
+This project displays a beautiful nature-themed card with an image, tags, heading, description, and a Read More button.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+
+##  Features
+
+
+- Nature image section
+- Stylish category tags
+- Center aligned content
+- Modern UI design
+- Beginner-friendly project
+
+## project image
+
+![card uI design](project2/pro2.png)
+
+## Project Structure
+
+```plaintext
+project-folder/
+│
+├── index.html
+├── styles.css
+└── nature.jpeg
 
 
 
