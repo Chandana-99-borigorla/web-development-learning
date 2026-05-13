@@ -4,7 +4,7 @@ This is my first web development project created while learning HTML.
 
 ## Project Screenshot
 
-![Dog World Screenshot](webpage.jpg)
+![Dog World Screenshot](day1/webpage.jpg)
 
 ## What I Learned Today
 
