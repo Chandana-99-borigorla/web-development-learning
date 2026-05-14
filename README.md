@@ -69,6 +69,6 @@ It contains colorful boxes, a welcome section, and basic layout styling.
 - Positioning elements
 - Creating layouts
 
-![multicolur website](day3/multicolorweb)
+![multicolur website](day3/multicolorweb.png)
 
 
