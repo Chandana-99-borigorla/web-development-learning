@@ -25,7 +25,7 @@ This is my first web development project created while learning HTML.
 
 
 
-project2:
+ ##  project2:
 # Nature Card UI
 
 A simple and responsive Nature Card UI built using HTML and CSS.  
