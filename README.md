@@ -49,14 +49,26 @@ This project displays a beautiful nature-themed card with an image, tags, headin
 
 ![card uI design](project2/pro2.png)
 
-## Project Structure
 
-```plaintext
-project-folder/
-│
-├── index.html
-├── styles.css
-└── nature.jpeg
 
+
+#day 3 learning
+
+# Simple Colorful Webpage
+
+This is a simple webpage created using HTML and CSS.  
+It contains colorful boxes, a welcome section, and basic layout styling.
+
+## Technologies Used
+- HTML
+- CSS
+
+## What I Learned
+- Flexbox
+- CSS styling
+- Positioning elements
+- Creating layouts
+
+![multicolur website](day3/multicolorweb)
 
 
