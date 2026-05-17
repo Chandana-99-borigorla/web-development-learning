@@ -1,0 +1,16 @@
+#day{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px;
+}
+#mybtn{
+    border-radius: 50%;
+    background-color: aqua;
+    transition:background-color 0.25s;
+}
+.btnn:hover{
+    background-color: #0fd86d;
+
+}
+#myres{
+    font-size: 20px;
+}

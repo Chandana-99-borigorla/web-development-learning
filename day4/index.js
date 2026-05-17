@@ -9,3 +9,6 @@ document.getElementById("mybtn").onclick=function(){
   
     document.getElementById("myh3").textContent=circum  + "cm";
 }
+let x=3.21214;
+let z= Math.trunc(x);
+console.log(z);

@@ -1,0 +1,32 @@
+body{
+    align-items: center;
+
+}
+#container{
+    align-items: center;
+    padding:45px;
+}
+#button1{
+    background-color: red;
+    border-radius: 50%;
+    border:2px  bold  black;
+    height:100px;
+    width:100px;
+    margin-left: 20px;
+}
+#button2{
+    background-color: green;
+    border-radius: 50%;
+    border:2px  bold  black;
+    height:100px;
+    width:100px;
+    margin-left: 20px;
+}
+#button3{
+    background-color: yellow;
+    border-radius: 50%;
+    border:2px  bold  black;
+    height:100px;
+    width:100px;
+    margin-left: 20px;
+}
