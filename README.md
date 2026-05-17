@@ -72,3 +72,29 @@ It contains colorful boxes, a welcome section, and basic layout styling.
 ![multicolur website](day3/multicolorweb.png)
 
 
+# Counter Program
+
+A simple counter application built using HTML, CSS, and JavaScript.
+
+## Features
+- Increase counter
+- Decrease counter
+- Reset counter
+- Simple and beginner-friendly UI
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+## JavaScript Concepts Used
+- DOM Manipulation
+- Event Handling
+- Variables
+- Functions
+- textContent`
+- onclick`
+![counter](day5/counter.mp4)
+
+
+
+
